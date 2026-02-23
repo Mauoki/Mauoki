@@ -2,9 +2,6 @@
 
 ### I'm a Teacher from Brazil, passionate about AI and Education.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mauoki&label=Profile views&color=0e75b6&style=flat" alt="Mauoki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mauoki" alt="Mauoki" /></a> </p>
 
 - 🔭 I'm currently working on **MedSuínos and RoboFurious (Innovative Tech & Education projects).**
 
